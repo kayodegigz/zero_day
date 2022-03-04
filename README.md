@@ -1,1 +1,2 @@
-First step to using vagrant
+First step to using vagrant!
+Also to using virtualbox
